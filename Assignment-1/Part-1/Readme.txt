@@ -1,3 +1,6 @@
+Part1: Implement a menu-driven Java program (like fib or factorial) to implement these input methods in java (command line args,Scanner, BufferedReader, DataInputStream, Console)
+
+
 Class: factorial
 
 -> Purpose: This class is designed to find the factorial of a given number.
