@@ -9,9 +9,9 @@ public class EmployeeDatabase {
     // Database URL for MySQL, specifying the database name and other connection settings.
     private static final String URL = "jdbc:mysql://localhost:3306/employeeDB";
     // Database user, typically set to 'root' for local development environments.
-    private static final String USER = "root";
+    private static final String USER = "username";
     // Password for the database user.
-    private static final String PASSWORD = "9909984896";
+    private static final String PASSWORD = "password";
 
     /**
      * Establishes and returns a connection to the database.
